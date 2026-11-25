@@ -1,0 +1,33 @@
+skills/antv-g6lite-graph/references/layouts.md
+  s_33236c8b59ece5::t_19db8b30c4a3a1 1-93
+skills/antv-g6lite-graph/references/templates/standalone.html
+  s_33236c8b59ece5::t_19db8b30c4a3a1 1-167
+skills/antv-g6lite-graph/SKILL.md
+  s_33236c8b59ece5::t_19db8b30c4a3a1 3,8,10,12,14-47,55-56,58-59,63,66,68,70-79,81,83,85-93,95
+skills/antv-g6lite-graph/references/api-recipes.md
+  s_33236c8b59ece5::t_19db8b30c4a3a1 1-154
+skills/antv-g6lite-graph/references/migration.md
+  s_33236c8b59ece5::t_19db8b30c4a3a1 1-30
+skills/antv-g6lite-graph/references/visual-design.md
+  s_33236c8b59ece5::t_19db8b30c4a3a1 1-37
+skills/antv-g6lite-graph/references/templates/react-graph.tsx
+  s_33236c8b59ece5::t_19db8b30c4a3a1 1-124
+skills/antv-g6lite-graph/references/troubleshooting.md
+  s_33236c8b59ece5::t_19db8b30c4a3a1 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c89207d1c711b3cfcef3f1521cee0b0b7ee02884",
+  "prompts": {},
+  "sessions": {
+    "s_33236c8b59ece5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a210af-d6c9-7740-a604-d0b5d71cae0c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "gengsheng.wp <gengsheng.wp@antgroup.com>"
+    }
+  }
+}
