@@ -1,0 +1,27 @@
+site/src/components/homepage/README.md
+  s_33236c8b59ece5::t_17c2d7c6b5836a 16-17
+site/src/components/homepage/hero-graph-resources.tsx
+  s_33236c8b59ece5::t_17c2d7c6b5836a 5,12-13,18
+tests/unit/site/hero-graph-resources.test.ts
+  s_33236c8b59ece5::t_17c2d7c6b5836a 19,36
+site/src/components/homepage/hero-graph-loader.ts
+  s_33236c8b59ece5::t_17c2d7c6b5836a 1-42
+site/src/components/homepage/hero-live-graph.tsx
+  s_33236c8b59ece5::t_17c2d7c6b5836a 169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1d738292ff70c38a7d05aa137e7eac973cc61c20",
+  "prompts": {},
+  "sessions": {
+    "s_33236c8b59ece5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a210af-d6c9-7740-a604-d0b5d71cae0c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "gengsheng.wp <gengsheng.wp@antgroup.com>"
+    }
+  }
+}
