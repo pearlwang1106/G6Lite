@@ -1,0 +1,67 @@
+tests/unit/site/showcase-code-loader.test.ts
+  s_33236c8b59ece5::t_b62e18be7a1078 8-10,12-13,25-26,29-31,33-34
+  s_33236c8b59ece5::t_8d25ab119ba6a9 1-7,11,14-24,27-28,32,35-40
+site/src/components/homepage/showcase-code.server.ts
+  s_33236c8b59ece5::t_a150b2c5c0abbf 1-5,8-16,93
+  s_33236c8b59ece5::t_4579b684aaeb76 6-7,17-92
+site/src/app/(zh)/docs/layout.tsx
+  s_33236c8b59ece5::t_0ba77b2c3bdae3 7-8
+site/src/components/homepage/example-showcase.tsx
+  s_33236c8b59ece5::t_d473874b08e9d5 28-29,31-33,35-36,62-71,263-265,278-286,291-304,306
+  s_33236c8b59ece5::t_ceedcb88804e36 40-44
+  s_33236c8b59ece5::t_1fe7738546e118 11,30,34
+  s_33236c8b59ece5::t_f00bfdb2bf3173 15-16,18-19,51-61,72,84,86,91,95,109,127,135,139-141,143-144,153-156,165-166,261-262,266-267,287-290,305,307-308
+  s_33236c8b59ece5::t_86af88b4502bca 26-27
+  s_33236c8b59ece5::t_e157711c595358 38-39
+  s_33236c8b59ece5::t_4a981f0bf14066 45
+site/src/components/homepage/showcase-examples.ts
+  s_33236c8b59ece5::t_a3d9d304308aa2 4
+  s_33236c8b59ece5::t_a150b2c5c0abbf 5-6
+site/src/app/showcase/[locale]/[id]/[theme]/data.json/route.ts
+  s_33236c8b59ece5::t_a150b2c5c0abbf 1,7-15,19-21,26,32
+  s_33236c8b59ece5::t_99f3ebf09e6bb2 2-6,16-18
+  s_33236c8b59ece5::t_8d25ab119ba6a9 22-25,27-31
+site/src/app/docs.css
+  s_33236c8b59ece5::t_5fe026c792c64a 1-3292
+site/src/components/homepage/showcase-catalog.ts
+  s_33236c8b59ece5::t_a150b2c5c0abbf 1-8
+site/src/components/homepage/showcase-code-loader.ts
+  s_33236c8b59ece5::t_a150b2c5c0abbf 1-26
+site/src/components/homepage/content.ts
+  s_33236c8b59ece5::t_1fe7738546e118 321-324
+site/src/components/homepage/update-scenarios.tsx
+  s_33236c8b59ece5::t_1fe7738546e118 7,43
+site/src/components/homepage/homepage.module.css
+  s_33236c8b59ece5::t_f00bfdb2bf3173 1148-1162
+site/src/app/en/docs/layout.tsx
+  s_33236c8b59ece5::t_0ba77b2c3bdae3 8-9
+site/src/components/ai-skill/copy-prompt.tsx
+  s_33236c8b59ece5::t_a150b2c5c0abbf 12,19,36
+site/src/components/homepage/featured-examples.tsx
+  s_33236c8b59ece5::t_a150b2c5c0abbf 3,6,8
+  s_33236c8b59ece5::t_b9d148c61021eb 9-14
+  s_33236c8b59ece5::t_1fe7738546e118 4
+site/src/app/global.css
+  s_33236c8b59ece5::t_5fe026c792c64a 281-292
+  s_33236c8b59ece5::t_a7329fc2ae0ddb 296-297
+site/src/components/homepage/homepage.tsx
+  s_33236c8b59ece5::t_1fe7738546e118 128,296
+site/src/components/homepage/hero-live-graph.tsx
+  s_33236c8b59ece5::t_1fe7738546e118 10,90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a75293f73152d9fbccf4f6bfe02e394d8dfacc82",
+  "prompts": {},
+  "sessions": {
+    "s_33236c8b59ece5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a210af-d6c9-7740-a604-d0b5d71cae0c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "gengsheng.wp <gengsheng.wp@antgroup.com>"
+    }
+  }
+}
