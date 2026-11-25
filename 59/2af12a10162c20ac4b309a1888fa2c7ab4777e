@@ -1,0 +1,35 @@
+site/src/components/provider.tsx
+  s_33236c8b59ece5::t_9b068d5132382d 3-4,8-15,27
+site/src/app/global.css
+  s_33236c8b59ece5::t_9b068d5132382d 20-21
+site/src/components/homepage/fonts/common-headings.txt
+  s_33236c8b59ece5::t_2e37f4c1713b23 1-14
+site/src/components/homepage/homepage.tsx
+  s_33236c8b59ece5::t_9b068d5132382d 52,106,129,166-170,177,203,229,235,238-242
+site/src/lib/site-font.ts
+  s_33236c8b59ece5::t_9b068d5132382d 3-6,9-10,12,14-37
+site/src/components/homepage/fonts/split-heading.py
+  s_33236c8b59ece5::t_7d7dd4b5690f9b 1-74
+site/src/components/site-footer.tsx
+  s_33236c8b59ece5::t_9b068d5132382d 60,68
+site/src/components/homepage/README.md
+  s_33236c8b59ece5::t_eac4900f9cd09f 16-21
+site/src/components/homepage/fonts/README.md
+  s_33236c8b59ece5::t_9b068d5132382d 3,12-23,26-34,36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "592af12a10162c20ac4b309a1888fa2c7ab4777e",
+  "prompts": {},
+  "sessions": {
+    "s_33236c8b59ece5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a210af-d6c9-7740-a604-d0b5d71cae0c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "gengsheng.wp <gengsheng.wp@antgroup.com>"
+    }
+  }
+}
